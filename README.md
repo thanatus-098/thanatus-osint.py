@@ -1,6 +1,13 @@
 # thanatus-osint.py
 Aşağıdaki araç yalnızca yasal ve izin verilen OSINT araştırmaları içindir. Başkalarına ait hesap/cihaz bilgilerini izinsiz toplamak suçtur.
+
+
 Gerekli modülleri kur:
-"pip install requests"
+sudo apt update
+git clone https://github.com/thanatus-098/thanatus-osint.py
+cd thanatus-osint.py
+chmod +x thanatus-osint.py
+
+
 Çalıştır:
-"python3 thanatus-osint.py"
+python3 thanatus-osint.py
